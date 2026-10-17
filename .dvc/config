@@ -1,0 +1,5 @@
+[core]
+    autostage = true
+    remote = localstorage
+['remote "localstorage"']
+    url = C:\Users\HP\Documents\DVCStorage
